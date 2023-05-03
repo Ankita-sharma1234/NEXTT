@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function addoffer() {
   return (
     <div>
-      
+      addcate
     </div>
   )
 }
 
-export default index
+export default addoffer

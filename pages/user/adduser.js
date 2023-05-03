@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function adduser() {
   return (
     <div>
-      
+      adduser
     </div>
   )
 }
 
-export default index
+export default adduser
